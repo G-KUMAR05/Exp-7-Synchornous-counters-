@@ -1,6 +1,6 @@
 ```
-Name : Rajalakshmi R
-Reg no : 23013958
+Name : KUMAR G
+Reg no : 212223220048
 ```
 
 # Exp-6 Synchornous counters up counter and down counter 
